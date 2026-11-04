@@ -6,12 +6,12 @@
 
 ## Tabela de Pesos RA
 
-**D1:** 5  
-**D2:**1
-**D3:**0
-**D4:**2
-**D5:**6
-**D6:**8 (par, logo o destino é S6) 
+- **D1:** 5  
+- **D2:**1
+- **D3:**0
+- **D4:**2
+- **D5:**6
+- **D6:**8 (par, logo o destino é S6) 
 
 Origem parte de **S0**
 Destino é **S6**
